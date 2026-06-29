@@ -1,6 +1,6 @@
 # Bolic
 
-**A science-based fitness training app.**
+**A science-based hypertrophy focused fitness training app.**
 
 Bolic is a functionally designed workout tracker built around one idea: training, done the most optimal way.
 
